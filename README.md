@@ -5,3 +5,6 @@ In each level computer will push a single button and you need to remember all of
 <br/>
 <br/>
 Let's see how long you can go!
+<br/>
+<br/>
+Hosted Here: https://kumar141.github.io/SimonGame/
